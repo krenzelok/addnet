@@ -2,11 +2,11 @@
 ## Compiling and installing
 Get the repo
 ```bash
-git clone 
+git clone https://github.com/krenzelok/addnet.git
 ```
 Change directory
 ```bash
-cd 
+cd addnet
 ```
 Get the requrd dependencies
 
