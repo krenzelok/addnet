@@ -37,7 +37,11 @@ To compile it run
 ```bash
 pyinstaller --onefile ./addnet.py
 ```
-install
+Exit the Env
 ```bash
-install -Dm755 ./dist/addnet "${PREFIX:-/usr/local}/bin/addnet"
+exit
+```
+install (You need to run this as root)
+```bash
+sudo install -Dm755 ./dist/addnet "${PREFIX:-/usr/local}/bin/addnet"
 ```
