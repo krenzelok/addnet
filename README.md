@@ -1,4 +1,8 @@
 ### This is a python script that adds your wifi automaticly into the wpa_supplicant.conf config file
+
+## We are under migration to codeberg
+https://codeberg.org/krenzelok/
+
 ## Compiling and installing
 Get the repo
 ```bash
