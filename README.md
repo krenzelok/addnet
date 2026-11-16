@@ -2,6 +2,7 @@
 
 ## We are under migration to codeberg
 https://codeberg.org/krenzelok/
+#### May or not be updated on github
 
 ## Compiling and installing
 Get the repo
